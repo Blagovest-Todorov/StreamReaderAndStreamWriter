@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\bin\Debug\netcoreapp3.1\ReadingFileWritingToFile.exe
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\bin\Debug\netcoreapp3.1\ReadingFileWritingToFile.deps.json
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\bin\Debug\netcoreapp3.1\ReadingFileWritingToFile.runtimeconfig.json
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\bin\Debug\netcoreapp3.1\ReadingFileWritingToFile.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\bin\Debug\netcoreapp3.1\ReadingFileWritingToFile.dll
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\bin\Debug\netcoreapp3.1\ReadingFileWritingToFile.pdb
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\obj\Debug\netcoreapp3.1\ReadingFileWritingToFile.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\obj\Debug\netcoreapp3.1\ReadingFileWritingToFile.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\obj\Debug\netcoreapp3.1\ReadingFileWritingToFile.AssemblyInfo.cs
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\obj\Debug\netcoreapp3.1\ReadingFileWritingToFile.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\obj\Debug\netcoreapp3.1\ReadingFileWritingToFile.dll
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\obj\Debug\netcoreapp3.1\ReadingFileWritingToFile.pdb
+C:\Users\Bla\source\repos\TextFiles\ReadingFileWritingToFile\obj\Debug\netcoreapp3.1\ReadingFileWritingToFile.genruntimeconfig.cache
